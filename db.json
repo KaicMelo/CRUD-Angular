@@ -1,19 +1,39 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Camiseta Bic",
-            "price": 5.89
-        },
-        {
-            "id": 2,
-            "name": "Notebook Mac",
-            "price": 12000.89
-        },
-        {
-            "id": 3,
-            "name": "Sangsung S20",
-            "price": 5000.00
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Camiseta Bic",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sangsung S20",
+      "price": 5000
+    },
+    {
+      "name": "Frigobar",
+      "price": 125.77,
+      "id": 4
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 5
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 6
+    },
+    {
+      "name": "Mouse Pad Kaic",
+      "price": "249,99",
+      "id": 7
+    }
+  ]
 }
